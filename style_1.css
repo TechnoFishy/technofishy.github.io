@@ -1,0 +1,9 @@
+@font-face{
+    font-family: Uni;
+    src: url(Fonts/Vintage\ Unicorn.ttf)
+}
+
+.basic-center{
+    font-family: Uni; 
+    text-align: center;
+}
